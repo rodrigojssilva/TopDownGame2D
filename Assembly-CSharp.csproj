@@ -58,6 +58,9 @@
     <Compile Include="Assets\Scripts\Dialogue\DialogueSettings.cs" />
     <Compile Include="Assets\Scripts\Dialogue\DialogueControl.cs" />
     <Compile Include="Assets\Scripts\NPC\NPC.cs" />
+    <Compile Include="Assets\Scripts\Craft\Tree.cs" />
+    <Compile Include="Assets\Scripts\Drops Items\Wood.cs" />
+    <Compile Include="Assets\Scripts\PlayerItems.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
